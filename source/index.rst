@@ -11,3 +11,4 @@ Welcome to MeteALOlogia documentation!
 
    intro
    components/index
+   rest-api/index
